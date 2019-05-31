@@ -1,0 +1,25 @@
+{
+  "name": "auto_deploy_jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "request": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliatry1/auto_deploy_jenkins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliatry1/auto_deploy_jenkins/issues"
+  },
+  "homepage": "https://github.com/aliatry1/auto_deploy_jenkins#readme"
+}
