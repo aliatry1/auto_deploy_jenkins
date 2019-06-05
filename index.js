@@ -2,7 +2,7 @@ exports.handler = async (event) => {
     // TODO implement
     const response = {
         statusCode: 200,
-        body: JSON.stringify('Final test.'),
+        body: JSON.stringify('Test the git triger job.'),
     };
     return response;
 };
