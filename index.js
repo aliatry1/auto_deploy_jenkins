@@ -2,7 +2,7 @@ exports.handler = async (event) => {
     // TODO implement
     const response = {
         statusCode: 200,
-        body: JSON.stringify('This was deployed from Github commit'),
+        body: JSON.stringify('This was deployed from Github commit Test number 2'),
     };
     return response;
 };
